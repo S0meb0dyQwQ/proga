@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Comp\\source\\repos\\Lessons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F42DC29F-A1D4-4C5E-80B4-9695A8BEFB0F}|Lessons\\Lessons.vcxproj|C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F42DC29F-A1D4-4C5E-80B4-9695A8BEFB0F}|Lessons\\Lessons.vcxproj|solutionrelative:Lessons\\Task17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42DC29F-A1D4-4C5E-80B4-9695A8BEFB0F}|Lessons\\Lessons.vcxproj|C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F42DC29F-A1D4-4C5E-80B4-9695A8BEFB0F}|Lessons\\Lessons.vcxproj|solutionrelative:Lessons\\Task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42DC29F-A1D4-4C5E-80B4-9695A8BEFB0F}|Lessons\\Lessons.vcxproj|C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F42DC29F-A1D4-4C5E-80B4-9695A8BEFB0F}|Lessons\\Lessons.vcxproj|solutionrelative:Lessons\\Task14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42DC29F-A1D4-4C5E-80B4-9695A8BEFB0F}|Lessons\\Lessons.vcxproj|C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F42DC29F-A1D4-4C5E-80B4-9695A8BEFB0F}|Lessons\\Lessons.vcxproj|solutionrelative:Lessons\\Task10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task17.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task17.cpp",
+              "RelativeDocumentMoniker": "Lessons\\Task17.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task17.cpp",
+              "RelativeToolTip": "Lessons\\Task17.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T12:41:56.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task5.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task5.cpp",
+              "RelativeDocumentMoniker": "Lessons\\Task5.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task5.cpp",
+              "RelativeToolTip": "Lessons\\Task5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T11:35:19.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task10.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task10.cpp",
+              "RelativeDocumentMoniker": "Lessons\\Task10.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task10.cpp",
+              "RelativeToolTip": "Lessons\\Task10.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T09:19:50.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task14.cpp",
+              "DocumentMoniker": "C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task14.cpp",
+              "RelativeDocumentMoniker": "Lessons\\Task14.cpp",
+              "ToolTip": "C:\\Users\\Comp\\source\\repos\\Lessons\\Lessons\\Task14.cpp",
+              "RelativeToolTip": "Lessons\\Task14.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T10:00:04.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
